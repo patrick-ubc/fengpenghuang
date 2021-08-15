@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fengpenghuang/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/fengpenghuang/static/js/main.d01726f0.chunk.js",
+    "main.js.map": "/fengpenghuang/static/js/main.d01726f0.chunk.js.map",
+    "runtime-main.js": "/fengpenghuang/static/js/runtime-main.73657b3e.js",
+    "runtime-main.js.map": "/fengpenghuang/static/js/runtime-main.73657b3e.js.map",
+    "static/js/2.7e254358.chunk.js": "/fengpenghuang/static/js/2.7e254358.chunk.js",
+    "static/js/2.7e254358.chunk.js.map": "/fengpenghuang/static/js/2.7e254358.chunk.js.map",
+    "static/js/3.5522ad59.chunk.js": "/fengpenghuang/static/js/3.5522ad59.chunk.js",
+    "static/js/3.5522ad59.chunk.js.map": "/fengpenghuang/static/js/3.5522ad59.chunk.js.map",
+    "index.html": "/fengpenghuang/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/fengpenghuang/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7e254358.chunk.js.LICENSE.txt": "/fengpenghuang/static/js/2.7e254358.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fengpenghuang/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73657b3e.js",
+    "static/js/2.7e254358.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d01726f0.chunk.js"
+  ]
+}
